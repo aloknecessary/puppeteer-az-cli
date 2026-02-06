@@ -19,6 +19,9 @@ Designed for:
 - System-installed Chromium
 - Azure CLI (for Blob Storage uploads)
 - All required Chromium runtime libraries
+- Multi-architecture support
+  * linux/amd64
+  * linux/arm64 (Apple Silicon, ARM runners)
 
 ---
 
